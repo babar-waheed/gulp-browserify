@@ -17,7 +17,7 @@
     "babel-preset-react": "^6.11.1",
     "babelify": "^7.3.0",
     "browserify": "^13.1.0",
-    "browserify-hmr": "^0.3.1",
+    "browserify-hmr": "^0.4.1",
     "connect-livereload": "^0.5.4",
     "eslint-plugin-import": "^1.14.0",
     "eslint-plugin-react": "^6.1.2",
